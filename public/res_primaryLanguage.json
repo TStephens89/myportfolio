@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Trevor Stephens. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "👋 I am a transitioning Navy Veteran who recently completed my bachelor’s degree in Information Technology Management.  In my time in the military I have spent time working as a technician, a supervisor, a manager, and a mentor.  I used those values to support Navy fleet readiness.  I plan on using those same skills I have learned over the last 9 years in the Navy as well as life skills to bring a new perspective to the software development world.   I am a dedicated team member who looks forward to challenging myself with this next mission in life.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This was an amazing experience and a project that is near to my heart.  In this application I mad a Salmon Cookie stand and generated sales and rendered the sales using JavaScript, HTML and CSS.  This application is important because how challenging it was for my skill level at the time.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/salmonshot.png",
+          "images/portfolio/animal-shelter/images.jfif"
         ],
-        "url": "",
+        "url": "https://tstephens89.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Flash.me",
+        "startDate": "2022",
+        "description": "Personal project for study subject. This was my first group project I did for the completion of my Codefellows 201 class.  I completed this project with Joshua Frazer, Matthew Gebhart, and Ari Palmer.  We came together to create a flashcard application that will allow users to create and render new decks that they can use to study JavaScript, CSS, and HTML topics ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/Picture1.png",
+          "images/portfolio/photography/cover-img.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://code201classgroup4.github.io/Flash.Me/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Coming Soon",
+        "startDate": "2022",
+        "description": "This will house my code 301 Project but I like the current pictures",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -81,37 +81,37 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Student",
+        "years": "05.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Student"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "javascript",
+          "HTML",
+          "Java",
+          "CSS",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "United States Navy",
+        "title": "Aviation Electronics Technician",
+        "years": "12.2011 - 03.2021",
         "mainTech": [
-          "Angular 7/8"
+          "I-Level O-Level maintainer"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "IFF",
+          "GPS",
+          "COMSEC",
+          "RADAR",
+          "TACAN",
+          "SATCOM",
+          "Fiber Optics",
+          "MQ-4C",
+          "Wiring"
         ]
       }
     ]

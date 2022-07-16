@@ -1,3 +1,1 @@
-# Modify this portfolio
-
-Make it your own! 
+https://trevorstephens.netlify.app/

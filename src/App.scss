@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #F2B807;
+	background: url(../public/images/portfolio/photography/IMG_5691.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -72,12 +72,12 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #0e0d0d;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
-	color: white;
+	background-color: #F2884B;
+	color: rgb(122, 24, 24);
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#F2AA52, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #F2AA52;
 	overflow: hidden;
 }
 
@@ -139,7 +139,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #734636;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -178,7 +178,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: rgb(229, 166, 166);
 	text-align: center;
 }
 
@@ -188,7 +188,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #0A2126;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #734636;
 }
 
 .experience-icon {
@@ -256,7 +256,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #BF7E04 !important;
+	background-color: #F2AA52 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +353,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #F2AA52;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +389,7 @@ header h1 {
 }
 
 #skills {
-	background: #A60522;
+	background: #0A2126;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -408,7 +408,7 @@ header h1 {
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: #F2884B;
 	text-align: center;
 	position: relative;
 }
@@ -419,7 +419,7 @@ footer {
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: white;
+	color: #F2884B;
 	position: relative;
 	text-align: center;
 }
@@ -431,7 +431,7 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: #F2884B;
 }
 
 .social-links {
